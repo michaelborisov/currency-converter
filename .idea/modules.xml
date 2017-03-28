@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borisov.michael.lab.iml" filepath="$PROJECT_DIR$/.idea/modules/borisov.michael.lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borisov.michael.lab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/borisov.michael.lab_main.iml" group="borisov.michael.lab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borisov.michael.lab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/borisov.michael.lab_test.iml" group="borisov.michael.lab" />
+      <module fileurl="file://$PROJECT_DIR$/curex/curex.iml" filepath="$PROJECT_DIR$/curex/curex.iml" />
+    </modules>
+  </component>
+</project>
